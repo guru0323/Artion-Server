@@ -1,0 +1,15 @@
+/node_modules
+
+/config/fantomsea_tommy_service.json
+cipher.js
+test.js
+/admin-actions
+/uploads
+
+# hide all .env files
+.env*
+
+# mac display info
+.DS_Store
+
+/logs
